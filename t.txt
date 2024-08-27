@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Cloud Computing assignment - web app"
+git branch -M main
+git remote add origin https://github.com/NishantBansal2003/Cloud-Computing-Assignment---web-app.git
+git push -u origin main
