@@ -19,7 +19,7 @@ const instructionsHtml = `
     <li>Navigate to <code>/search?person=NAME</code> to search for a person on Wikipedia.</li>
   </ul>
   <p>Example:</p>
-  <p><a href="http://localhost:3000/search?person=Albert+Einstein">http://localhost:3000/search?person=Albert+Einstein</a></p>
+  <p><a href="https://cloud-computing-assignment-web-app.onrender.com/search?person=Albert+Einstein">https://cloud-computing-assignment-web-app.onrender.com/search?person=Albert+Einstein</a></p>
 </body>
 </html>
 `;
